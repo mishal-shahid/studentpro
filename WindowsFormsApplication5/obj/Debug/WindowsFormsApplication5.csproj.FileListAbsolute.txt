@@ -1,0 +1,15 @@
+c:\users\gmc\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\x64\liblept172.dll
+c:\users\gmc\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\x64\libtesseract304.dll
+c:\users\gmc\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\x86\liblept172.dll
+c:\users\gmc\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\x86\libtesseract304.dll
+c:\users\gmc\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\gmc\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\gmc\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\gmc\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Tesseract.dll
+c:\users\gmc\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Tesseract.xml
+c:\users\gmc\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+c:\users\gmc\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\gmc\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\gmc\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\gmc\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+c:\users\gmc\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
